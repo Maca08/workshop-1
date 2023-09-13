@@ -1,0 +1,10 @@
+{
+  "name": "project-x",
+  "version": "1.0.0",
+  "description": "Project X",
+  "private": true,
+  "workspaces": [
+    "front",
+    "generator-service"
+  ]
+}
